@@ -1,0 +1,4 @@
+collections:
+  gp-services:
+    output: true
+    order: []
