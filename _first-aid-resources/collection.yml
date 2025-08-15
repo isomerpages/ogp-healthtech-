@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  first-aid-resources:
     output: true
     order:
       - folder-page.md
