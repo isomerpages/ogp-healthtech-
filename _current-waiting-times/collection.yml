@@ -1,0 +1,4 @@
+collections:
+  current-waiting-times:
+    output: true
+    order: []
