@@ -1,4 +1,4 @@
 collections:
-  gp-services:
+  general-practitioner-services:
     output: true
     order: []
