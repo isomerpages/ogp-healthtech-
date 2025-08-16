@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: ED Queue Viewer
     url: /example-page/
   - title: ED Services
@@ -12,3 +10,5 @@ links:
     collection: first-aid-resources
   - title: STARbot
     url: https://adm.vica.gov.sg/sharing/starbot-1udmxx
+  - title: Contact Us
+    url: /contact-us/
