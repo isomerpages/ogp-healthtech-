@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Back Pain.md
-      - Breathlessness/Headache.md
+      - Breathlessness/Advice.md
       - Breathlessness/.keep
       - Chest Pain/.keep
       - Chest Pain/When to Call ambulance.md
