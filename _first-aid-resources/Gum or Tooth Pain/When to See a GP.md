@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Gum or Tooth Pain
 ---
-<h3>See a Dentist instead of a GP </h3>
+<h3>See a Dentist instead of a GP</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>especially with significant swelling seen externally over the jaw and
