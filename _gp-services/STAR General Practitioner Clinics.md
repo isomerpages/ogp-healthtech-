@@ -71,7 +71,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pano Family Clinic</p>
+<p><a href="https://www.panoclinic.sg/" rel="noopener nofollow" target="_blank">Pano Family Clinic</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yes</p>
@@ -91,7 +92,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Redwood@TPY clinic and surgery pte ltd</p>
+<p><a href="https://www.redwoodmedgroup.com/" rel="noopener nofollow" target="_blank">Redwood Medical Clinic and Surgery (Toa Payoh)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -111,7 +113,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trucare Medical and Surgery</p>
+<p><a href="https://trucaremedical.com.sg/contact/" rel="noopener nofollow" target="_blank">Trucare Medical and Surgery</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -131,7 +134,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MedLife clinic &amp; surgery</p>
+<p><a href="https://www.healthcare.com.sg/item/medlife-clinic-surgery/" rel="noopener nofollow" target="_blank">Medlife Clinic and Surgery</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -151,7 +155,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zenith medical clinic</p>
+<p><a href="https://punggolgp.com/" rel="noopener nofollow" target="_blank">Zenith Medical Clinic</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -171,7 +176,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Northshore Family Clinic</p>
+<p><a href="https://northshorefamilyclinic.sg/" rel="noopener nofollow" target="_blank">Northshore Family Clinic</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -191,7 +197,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kenneth Tan Medical Clinic</p>
+<p><a href="https://ktmc.sg/" rel="noopener nofollow" target="_blank">Kenneth Tan Medical Clinic</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -211,7 +218,30 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pancare Medical Hougang</p>
+<p><a href="https://pancaremedical.sg/" rel="noopener nofollow" target="_blank">Pancare Medical Hougang</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.uniqmedicalclinic.com/services/" rel="noopener nofollow" target="_blank">Uniq Medical Clinic Changi</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://wherecrowded.sg/at/place/dedicare-medical-practice-surgery-at-hougang" rel="noopener nofollow" target="_blank">Dedicare Medical Practice &amp; Surgery</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -231,7 +261,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DEDICARE MEDICAL PRACTICE &amp; SURGERY</p>
+<p><a href="https://www.healthcare.com.sg/item/medlife-clinic-surgery/" rel="noopener nofollow" target="_blank">Medlife Clinic &amp; Surgery</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -251,7 +282,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MEDLIFE CLINIC &amp; SURGERY</p>
+<p><a href="https://www.healthmark.com.sg/location" rel="noopener nofollow" target="_blank">Healthmark Family Clinic Compassvale</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -271,7 +303,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Healthmark Family Clinic Compassvale</p>
+<p><a href="https://www.uniqmedicalclinic.com/services/" rel="noopener nofollow" target="_blank">Uniq Medical Clinic (Changi)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -291,7 +324,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Uniq Medical Clinic (Changi)</p>
+<p><a href="https://www.healthcare.com.sg/item/standard-clinic-surgery/" rel="noopener nofollow" target="_blank">Standard Clinic &amp; Surgery</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -311,27 +345,8 @@ following procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Standard Clinic &amp; Surgery</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Phoenix Medical Group (Seletar)</p>
+<p><a href="https://phoenixmedical.sg/contact-us/" rel="noopener nofollow" target="_blank">Phoenix Medical Group (Seletar)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
