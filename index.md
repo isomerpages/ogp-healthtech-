@@ -19,9 +19,9 @@ sections:
         - title: GP and GPFirst
           description: Urgent Services by GPs
           url: /gp-first-services/
-        - title: First Aid Resources
-          description: First Aid and Self Help Advice
-          url: /first-aid-resources/
+        - title: Where should i go
+          description: Condition-specific advice
+          url: /where-to-go/
         - title: Emergency Department
           description: Emergency Services by EDs
           url: /emergency-department-services-by-specialty/
