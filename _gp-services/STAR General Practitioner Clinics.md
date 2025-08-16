@@ -4,13 +4,12 @@ permalink: /star-general-practitioner-clinics/
 variant: tiptap
 description: ""
 ---
-<p><u>Below is a list of GP Clinics with capabilities to manage semi-urgent conditions:</u>
-</p>
+<p><strong>STAR GPs</strong> are those able to perform some or all of the
+following procedures.</p>
+<p>Click on the <strong>Clinic name </strong>to be directed to their website.</p>
 <p></p>
-<blockquote>
 <p><strong>Northeast Region</strong>
 </p>
-</blockquote>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
