@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - List of Conditions.md
-      - example-subfolder/.keep
-      - example-subfolder/Chest Pain.md
+      - Chest and Abdomen/.keep
+      - Chest and Abdomen/Chest Pain.md
