@@ -6,3 +6,5 @@ links:
     url: /example-page/
   - title: First Aid Resources
     collection: first-aid-resources
+  - title: New folder
+    collection: current-waiting-times
