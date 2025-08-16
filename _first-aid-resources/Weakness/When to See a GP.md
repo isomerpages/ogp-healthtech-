@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Weakness
 ---
-<h3>See a GP if you experience the following: </h3>
+<h3>See a GP if you experience the following:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Generalized weakness that you feel is related to a mild illness like a
