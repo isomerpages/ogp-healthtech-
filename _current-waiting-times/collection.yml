@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - ED Waiting Times.md
-      - UCC Waiting Times.md
+      - Urgent Care Centres.md
