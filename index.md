@@ -10,8 +10,8 @@ sections:
       title: S.T.A.R.
       subtitle: Singhealth Triage and Recommendation (S.T.A.R.)
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: Welcome
+      url: /aims/
       key_highlights:
         - title: Estimated Waiting times
           description: EDs and GPs Near You
