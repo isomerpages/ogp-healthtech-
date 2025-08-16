@@ -100,7 +100,7 @@ involves addressing the underlying cause with your doctor.</p>
 </p>
 </li>
 <li>
-<p><strong>Inflammatory Bowel Disease (IBD)</strong> 
+<p><strong>Inflammatory Bowel Disease (IBD)</strong>
 </p>
 </li>
 <li>
