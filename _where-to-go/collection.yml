@@ -1,5 +1,5 @@
 collections:
-  first-aid-resources:
+  where-to-go:
     output: true
     order:
       - First Aid Resources.md
