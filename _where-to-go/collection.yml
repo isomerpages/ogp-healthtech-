@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - First Aid Resources.md
-      - Abdominal Pain/Abdominal Pain (Condensed).md
+      - Abdominal Pain/Abdominal Pain.md
       - Abdominal Pain/.keep
       - Abdominal Pain/Advice.md
       - Back Pain/.keep
