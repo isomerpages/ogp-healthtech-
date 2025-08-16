@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Pain on Passing Urine/.keep
       - Weakness/.keep
       - Headache/.keep
       - Joint Pain/.keep
