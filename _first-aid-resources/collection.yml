@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Headache/When to See a GP.md
       - Headache/Advice.md
       - Headache/.keep
       - Giddiness/.keep
