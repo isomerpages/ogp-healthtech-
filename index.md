@@ -24,7 +24,7 @@ sections:
           url: /first-aid-resources/
         - title: Emergency Department
           description: Emergency Services by EDs
-          url: ""
+          url: /emergency-department-services-by-specialty/
   - infobar:
       title: Information for Medical Needs
       description: Information regarding use of Emergency Department, GP+, GP-First
