@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Cough
 ---
-<p>See a GP if you experience the following:</p>
+<h3>See a GP if you experience the following:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Cough with fever &gt; 38 degrees</p>
