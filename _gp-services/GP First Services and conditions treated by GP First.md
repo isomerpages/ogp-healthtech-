@@ -11,7 +11,7 @@ description: ""
 <p></p>
 <p><strong>The GPFirst programme encourages people with mild to moderate acute medical conditions (See list below) to visit their General Practitioner (GP) first, rather than going directly to the Emergency Department (ED).</strong>
 </p>
-<p><strong>This enables EDs to focus on more urgent cases requiring medical attention and reduces the wait time for patients with milder conditions.</strong>
+<p><strong>This enables EDs to focus on more urgent cases requiring medical attention and allows patients with milder conditions to receive earlier treatment by their GPs.</strong>
 </p>
 <p><strong>Residents receive a $50 subsidy on the prevailing ED attendance fee if subsequently referred by a GPFirst GP to any of the following EDs and UCCs:</strong>
 </p>
@@ -38,7 +38,7 @@ description: ""
 <p>Tan Tock Seng Hospital (TTSH)</p>
 </li>
 <li>
-<p>Woodlands Health</p>
+<p>Woodlands General Hospital (WHC)</p>
 </li>
 <li>
 <p>Alexandra Hospital&nbsp;Urgent Care Centre (AH UCC)</p>
