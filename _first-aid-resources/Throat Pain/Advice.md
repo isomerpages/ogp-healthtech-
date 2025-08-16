@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Throat Pain
 ---
-<h3>1. Immediate Relief </h3>
+<h3>1. Immediate Relief</h3>
 <p></p>
 <p>These tips can help provide comfort and reduce the raw, scratchy feeling
 in your throat.</p>
