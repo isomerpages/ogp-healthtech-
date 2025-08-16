@@ -2,7 +2,6 @@ collections:
   first-aid-resources:
     output: true
     order:
-      - Abdominal Pain (Condensed).md
       - First Aid Resources.md
       - Abdominal Pain/.keep
       - Abdominal Pain/When to call Ambulance.md
