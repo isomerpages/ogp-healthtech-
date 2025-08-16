@@ -4,7 +4,7 @@ links:
     url: /contact-us/
   - title: ED Queue Viewer
     url: /example-page/
-  - title: First Aid Resources
-    collection: first-aid-resources
   - title: GP Services
     collection: gp-services
+  - title: First Aid Resources
+    collection: first-aid-resources
