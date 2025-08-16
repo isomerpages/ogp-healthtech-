@@ -6,7 +6,9 @@ description: ""
 ---
 <p><strong>STAR GPs</strong> are those able to perform some or all of the
 following procedures.</p>
-<p>Click on the <strong>Clinic name </strong>to be directed to their website.</p>
+<p></p>
+<p>To find out their opening hours, click on the <strong>Clinic names </strong>to
+be directed to their websites.</p>
 <p></p>
 <p><strong>Northeast Region</strong>
 </p>
@@ -54,19 +56,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -78,16 +80,16 @@ following procedures.</p>
 <p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 </tr>
 <tr>
@@ -96,19 +98,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -117,40 +119,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.healthcare.com.sg/item/medlife-clinic-surgery/" rel="noopener nofollow" target="_blank">Medlife Clinic and Surgery</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -159,19 +140,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -180,19 +161,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -201,19 +182,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -222,62 +203,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.uniqmedicalclinic.com/services/" rel="noopener nofollow" target="_blank">Uniq Medical Clinic Changi</a>
-</p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://wherecrowded.sg/at/place/dedicare-medical-practice-surgery-at-hougang" rel="noopener nofollow" target="_blank">Dedicare Medical Practice &amp; Surgery</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.healthcare.com.sg/item/medlife-clinic-surgery/" rel="noopener nofollow" target="_blank">Medlife Clinic &amp; Surgery</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -286,19 +224,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -307,40 +245,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.healthcare.com.sg/item/standard-clinic-surgery/" rel="noopener nofollow" target="_blank">Standard Clinic &amp; Surgery</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -349,19 +266,19 @@ following procedures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 </tr>
 </tbody>
