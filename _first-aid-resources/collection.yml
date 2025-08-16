@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Back Pain.md
+      - Breathlessness/When to call Ambulance.md
       - Breathlessness/When to go to the Emergency Department.md
       - Breathlessness/When to See a GP.md
       - Breathlessness/Advice.md
