@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Giddiness
 ---
-<h3>See a GP if you experience the following: </h3>
+<h3>See a GP if you experience the following:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mild, occasional dizziness that you suspect is related to a minor illness,
