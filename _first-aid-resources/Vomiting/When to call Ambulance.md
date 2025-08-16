@@ -14,5 +14,8 @@ third_nav_title: Vomiting
 <li>
 <p>Inability to pass motion or gas</p>
 </li>
+<li>
+<p>Diabetic and blood sugar level is high</p>
+</li>
 </ol>
 <p></p>
