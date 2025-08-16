@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Leg Swelling/.keep
       - Abdominal Pain/.keep
       - Chest Pain/.keep
       - Chest Pain/When to Call ambulance.md
