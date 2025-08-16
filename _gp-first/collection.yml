@@ -2,4 +2,4 @@ collections:
   gp-first:
     output: true
     order:
-      - GP First Services.md
+      - GP First Services and conditions treated by GP First.md
