@@ -2,5 +2,5 @@ collections:
   gp-services:
     output: true
     order:
-      - STAR General Practitioner Clinics.md
+      - STAR GP Clinics.md
       - GP First Services and conditions treated by GP First.md
