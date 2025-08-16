@@ -40,19 +40,13 @@ description: ""
 <p>Bladder Catherisation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Splinting</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Stitching</p>
-<p></p>
-<p>Tissue glue</p>
-<p></p>
-<p>Steristrips</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nail Avulsion</p>
+<p>Nail removal</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Wedge Resection</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Abscess Drainage</p>
