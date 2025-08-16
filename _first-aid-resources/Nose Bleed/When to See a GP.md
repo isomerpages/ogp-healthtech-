@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Nose Bleed
 ---
-<h3>See a GP if you experience the following: </h3>
+<h3>See a GP if you experience the following:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>You have frequent nosebleeds.</p>
