@@ -2,4 +2,5 @@ collections:
   emergency-department-services:
     output: true
     order:
+      - Emergency Department Services by Specialty.md
       - Emergency Department Services.md
