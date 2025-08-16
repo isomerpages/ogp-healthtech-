@@ -94,4 +94,5 @@ that an infection is spreading.</p>
 </li>
 </ul>
 <p>Early diagnosis and treatment by a dentist can prevent the issue from
-worsening and save your tooth.</p>
+worsening and save your tooth. Many dentists allow walk-ins or next day
+appointments, which may be superior than emergency department.</p>
