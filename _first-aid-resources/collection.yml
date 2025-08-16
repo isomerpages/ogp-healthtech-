@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Headache/.keep
       - Joint Pain/.keep
       - Giddiness/.keep
       - Fever/.keep
