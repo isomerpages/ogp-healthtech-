@@ -7,7 +7,7 @@ description: ""
 <p><strong>STAR GPs</strong> are those able to perform some or all of the
 following procedures.</p>
 <p></p>
-<p>To find out their opening hours, click on the <strong>Clinic names </strong>to
+<p>To find out their location and opening hours, click on the <strong>Clinic names </strong>to
 be directed to their websites.</p>
 <p></p>
 <p><strong>Northeast Region</strong>
