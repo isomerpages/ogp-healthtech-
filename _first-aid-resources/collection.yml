@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Cough/.keep
       - Diarrhea/.keep
       - Vomiting/.keep
       - Gum or Tooth Pain/.keep
