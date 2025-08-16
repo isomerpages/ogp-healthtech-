@@ -65,12 +65,11 @@ Brush your teeth twice a day, floss daily, and use an antibacterial mouthwash.</
 <p></p>
 <h3>3. When to See a Dentist</h3>
 <p></p>
-<p><strong>You should see a dentist as soon as possible if you experience:</strong>
+<p><strong>You should see a dentist if you experience:</strong>
 </p>
 <ul>
 <li>
-<p><strong>Pain that is severe or persistent</strong> and does not go away
-with home remedies.</p>
+<p><strong>Pain that is severe or persistent</strong>.</p>
 </li>
 <li>
 <p><strong>Swelling in the gums, face, or jaw.</strong>
