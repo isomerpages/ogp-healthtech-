@@ -1,4 +1,5 @@
 collections:
   general-practitioner-services:
     output: true
-    order: []
+    order:
+      - STAR General Practitioner Clinics.md
