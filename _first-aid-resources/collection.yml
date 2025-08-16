@@ -2,26 +2,10 @@ collections:
   first-aid-resources:
     output: true
     order:
-      - Burns/.keep
-      - Insomnia/.keep
-      - Ear Pain/.keep
-      - Throat Pain/.keep
-      - Cough/.keep
-      - Diarrhea/.keep
-      - Vomiting/.keep
-      - Gum or Tooth Pain/.keep
-      - Nose Bleed/.keep
-      - Rash/.keep
-      - Red eyes/.keep
-      - Injury/.keep
-      - Pain on Passing Urine/.keep
-      - Weakness/.keep
       - Headache/.keep
-      - Joint Pain/.keep
       - Giddiness/.keep
       - Fever/.keep
-      - Leg Swelling/.keep
-      - Abdominal Pain/.keep
+      - Weakness/.keep
       - Chest Pain/.keep
       - Chest Pain/When to Call ambulance.md
       - Chest Pain/When to go to the Emergency Department.md
@@ -32,5 +16,21 @@ collections:
       - Breathlessness/When to go to the Emergency Department.md
       - Breathlessness/When to See a GP.md
       - Breathlessness/Advice.md
+      - Cough/.keep
+      - Abdominal Pain/.keep
+      - Diarrhea/.keep
+      - Vomiting/.keep
+      - Joint Pain/.keep
+      - Leg Swelling/.keep
+      - Rash/.keep
       - Back Pain/.keep
       - Back Pain/Advice.md
+      - Injury/.keep
+      - Pain on Passing Urine/.keep
+      - Burns/.keep
+      - Red eyes/.keep
+      - Ear Pain/.keep
+      - Nose Bleed/.keep
+      - Gum or Tooth Pain/.keep
+      - Throat Pain/.keep
+      - Insomnia/.keep
