@@ -1,4 +1,5 @@
 collections:
   emergency-department-services:
     output: true
-    order: []
+    order:
+      - Emergency Department Services.md
