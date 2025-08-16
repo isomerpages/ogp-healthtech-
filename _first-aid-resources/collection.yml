@@ -2,8 +2,8 @@ collections:
   first-aid-resources:
     output: true
     order:
-      - Head (Eyes Ears Throat)/Headache.md
-      - Head (Eyes Ears Throat)/.keep
+      - Breathlessness/Headache.md
+      - Breathlessness/.keep
       - Chest Pain/.keep
       - Chest Pain/When to Call ambulance.md
       - Chest Pain/When to go to the Emergency Department.md
