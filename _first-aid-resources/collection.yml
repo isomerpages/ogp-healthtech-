@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Back Pain/.keep
       - Chest Pain/.keep
       - Chest Pain/When to Call ambulance.md
       - Chest Pain/When to go to the Emergency Department.md
