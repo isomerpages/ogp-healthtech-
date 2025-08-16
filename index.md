@@ -27,6 +27,6 @@ sections:
       description: Information regarding use of Emergency Department, GP+, GP-First
         and medical advice for empowering yourself to manage your medical
         conditions with confidence.
-      button: Button text
-      url: /faq/
+      button: ABOUT
+      url: /more/
 ---
