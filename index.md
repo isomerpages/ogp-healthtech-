@@ -24,7 +24,7 @@ sections:
           url: /gp-first-services/
         - title: Where should i go
           description: Condition-specific advice
-          url: /Where-to-go/
+          url: /where-to-go/
   - infobar:
       title: Information for Medical Needs
       description: Helping you to choose the right care option for your acute illness.
