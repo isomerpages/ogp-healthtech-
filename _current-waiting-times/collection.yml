@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - ED Waiting Times.md
-      - ED and UCC Waiting Times.md
+      - UCC Waiting Times.md
