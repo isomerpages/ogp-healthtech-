@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chest Pain
 ---
-<h3><strong>See a GP if you experience the following: </strong></h3>
+<h3><strong>See a GP if you experience the following:</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Dull, achy, or sharp chest pain that is linked to a specific activity
