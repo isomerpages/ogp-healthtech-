@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Chest Pain
 ---
-<p>Call an ambulance if you experienced the following symptoms:</p>
+<p><strong>Call an ambulance if you experienced the following symptoms:</strong>
+</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
