@@ -2,6 +2,6 @@ collections:
   current-waiting-times:
     output: true
     order:
-      - Nurse First Helpline.md
       - ED Waiting Times.md
       - Urgent Care Centres.md
+      - Nurse First Helpline.md
