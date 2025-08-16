@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Vomiting
 ---
-<p>Call an ambulance if you experienced the following symptoms:</p>
+<h3>Call an ambulance if you experienced the following symptoms:</h3>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
