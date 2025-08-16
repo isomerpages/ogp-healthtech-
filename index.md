@@ -27,10 +27,8 @@ sections:
           url: /emergency-department-services-by-specialty/
   - infobar:
       title: Information for Medical Needs
-      description: Information regarding use of Emergency Department, GP+, GP-First
-        and medical advice for empowering yourself to manage your medical
-        conditions with confidence.
+      description: Helping you to choose the right care option for your acute illness.
       button: ABOUT
       url: /more/
-      subtitle: S.T.A.R. empowers patients
+      subtitle: S.T.A.R. empowers you
 ---
