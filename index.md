@@ -9,7 +9,7 @@ sections:
   - hero:
       title: S.T.A.R.
       subtitle: Singhealth Triage and Recommendation (S.T.A.R.)
-      background: /images/hero-banner.png
+      background: /images/IMG_0009.jpg
       button: Welcome
       url: /aims/
       key_highlights:
