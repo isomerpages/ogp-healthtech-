@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Red eyes/.keep
       - Injury/.keep
       - Pain on Passing Urine/.keep
       - Weakness/.keep
