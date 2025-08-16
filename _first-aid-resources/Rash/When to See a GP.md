@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Rash
 ---
-<h3>See a GP if you experience the following: </h3>
+<h3>See a GP if you experience the following:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>A mild rash that you suspect is an allergic reaction.</p>
