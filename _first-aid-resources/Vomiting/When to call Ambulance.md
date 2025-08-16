@@ -11,5 +11,8 @@ third_nav_title: Vomiting
 <li>
 <p>Associated with head injury and confusion</p>
 </li>
+<li>
+<p>Inability to pass motion or gas</p>
+</li>
 </ol>
 <p></p>
