@@ -4,9 +4,7 @@ links:
     url: /contact-us/
   - title: ED Queue Viewer
     url: /example-page/
-  - title: GP Services
-    url: /permalink
   - title: First Aid Resources
     collection: first-aid-resources
-  - title: New folder
-    collection: current-waiting-times
+  - title: GP Services
+    collection: gp-services
