@@ -8,7 +8,7 @@ third_nav_title: Gum or Tooth Pain
 <h3>See a Dentist instead of a GP</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>especially with significant swelling seen externally over the jaw and
+<p>Especially with significant swelling seen externally over the jaw and
 fever (abscess suspected)
 <br>infection, pus, fever or foul taste in mouth that indicate infection</p>
 </li>
