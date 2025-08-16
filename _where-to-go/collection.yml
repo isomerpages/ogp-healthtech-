@@ -2,7 +2,6 @@ collections:
   where-to-go:
     output: true
     order:
-      - First Aid Resources.md
       - Abdominal Pain/Abdominal Pain.md
       - Abdominal Pain/.keep
       - Abdominal Pain/Advice.md
