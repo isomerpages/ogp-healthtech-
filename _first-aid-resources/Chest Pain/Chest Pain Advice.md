@@ -67,11 +67,11 @@ such as shortness of breath, sweating, or lightheadedness. The presence
 of these additional symptoms, even without severe chest pain, can be a
 red flag.</p>
 <p></p>
-<p><em>Important things to note: Do not drive yourself to the hospital, even if you are not coming in by ambulance. Highlight to the registration counter in the Emergency Department that your primary problem is chest pain, such that an ECG (heart tracing) is done early for you.</em> 
+<p><em>Important things to note: Do not drive yourself to the hospital, even if you are not coming in by ambulance. Highlight to the registration counter in the Emergency Department that your primary problem is chest pain, such that an ECG (heart tracing) is done early for you.</em>
 </p>
 <p></p>
 <p></p>
-<h3>General Advice </h3>
+<h3>General Advice</h3>
 <p></p>
 </li>
 </ul>
