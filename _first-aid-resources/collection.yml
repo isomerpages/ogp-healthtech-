@@ -2,14 +2,14 @@ collections:
   first-aid-resources:
     output: true
     order:
-      - Back Pain.md
-      - Breathlessness/When to call Ambulance.md
-      - Breathlessness/When to go to the Emergency Department.md
-      - Breathlessness/When to See a GP.md
-      - Breathlessness/Advice.md
-      - Breathlessness/.keep
       - Chest Pain/.keep
       - Chest Pain/When to Call ambulance.md
       - Chest Pain/When to go to the Emergency Department.md
       - Chest Pain/When to See a GP.md
       - Chest Pain/Chest Pain Advice.md
+      - Breathlessness/.keep
+      - Breathlessness/When to call Ambulance.md
+      - Breathlessness/When to go to the Emergency Department.md
+      - Breathlessness/When to See a GP.md
+      - Breathlessness/Advice.md
+      - Back Pain.md
