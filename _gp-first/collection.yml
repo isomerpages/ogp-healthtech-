@@ -1,4 +1,5 @@
 collections:
   gp-first:
     output: true
-    order: []
+    order:
+      - GP First Services.md
