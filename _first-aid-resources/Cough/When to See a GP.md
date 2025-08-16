@@ -8,7 +8,7 @@ third_nav_title: Cough
 <h3>See a GP if you experience the following:</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Cough with fever &gt; 38 degrees</p>
+<p>Cough with fever &gt; 38 degrees, with mild breathlessness</p>
 </li>
 <li>
 <p>Chronic Cough for which a referral is required</p>
