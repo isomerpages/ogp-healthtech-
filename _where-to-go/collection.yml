@@ -2,6 +2,7 @@ collections:
   where-to-go:
     output: true
     order:
+      - Where to go.md
       - Abdominal Pain/.keep
       - Abdominal Pain/Abdominal Pain.md
       - Abdominal Pain/Advice.md
