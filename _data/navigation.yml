@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: ED Queue Viewer
-    url: /ed-waiting-times-page/
+    url: https://master.duriqfc3zbg1n.amplifyapp.com/ed-waiting-times-page/
   - title: ED Services
     collection: emergency-department-services
   - title: GP Services
