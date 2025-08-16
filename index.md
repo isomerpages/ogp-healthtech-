@@ -23,9 +23,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Information for Medical Needs
+      description: Information regarding use of Emergency Department, GP+, GP-First
+        and medical advice for empowering yourself to manage your medical
+        conditions with confidence.
       button: Button text
       url: /faq/
 ---
