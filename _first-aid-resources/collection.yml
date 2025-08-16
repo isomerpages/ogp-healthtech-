@@ -3,106 +3,106 @@ collections:
     output: true
     order:
       - First Aid Resources.md
-      - Headache/When to call Ambulance.md
-      - Headache/When to go to the Emergency Department.md
-      - Headache/When to See a GP.md
-      - Headache/Advice.md
-      - Headache/.keep
-      - Giddiness/When to call Ambulance.md
-      - Giddiness/When to go to the Emergency Department.md
-      - Giddiness/When to See a GP.md
-      - Giddiness/Advice.md
-      - Giddiness/.keep
-      - Fever/When to call Ambulance.md
-      - Fever/When to go to the Emergency Department.md
-      - Fever/When to See a GP.md
-      - Fever/Advice.md
-      - Fever/.keep
-      - Weakness/When to call Ambulance.md
-      - Weakness/When to go to the Emergency Department.md
-      - Weakness/When to See a GP.md
-      - Weakness/Advice.md
-      - Weakness/.keep
-      - Chest Pain/.keep
-      - Chest Pain/When to Call ambulance.md
-      - Chest Pain/When to go to the Emergency Department.md
-      - Chest Pain/When to See a GP.md
-      - Chest Pain/Chest Pain Advice.md
+      - Abdominal Pain/.keep
+      - Abdominal Pain/When to call Ambulance.md
+      - Abdominal Pain/When to go to the Emergency Department.md
+      - Abdominal Pain/When to See a GP.md
+      - Abdominal Pain/Advice.md
+      - Back Pain/.keep
+      - Back Pain/When to call Ambulance.md
+      - Back Pain/When to go to the Emergency Department.md
+      - Back Pain/When to See a GP.md
+      - Back Pain/Advice.md
       - Breathlessness/.keep
       - Breathlessness/When to call Ambulance.md
       - Breathlessness/When to go to the Emergency Department.md
       - Breathlessness/When to See a GP.md
       - Breathlessness/Advice.md
-      - Cough/When to call Ambulance.md
-      - Cough/When to go to the Emergency Department.md
-      - Cough/When to See a GP.md
-      - Cough/Advice.md
-      - Cough/.keep
-      - Abdominal Pain/When to call Ambulance.md
-      - Abdominal Pain/When to go to the Emergency Department.md
-      - Abdominal Pain/When to See a GP.md
-      - Abdominal Pain/Advice.md
-      - Abdominal Pain/.keep
-      - Diarrhea/When to go to the Emergency Department.md
-      - Diarrhea/When to See a GP.md
-      - Diarrhea/Advice.md
-      - Diarrhea/.keep
-      - Vomiting/When to call Ambulance.md
-      - Vomiting/When to go to the Emergency Department.md
-      - Vomiting/When to See a GP.md
-      - Vomiting/Advice.md
-      - Vomiting/.keep
-      - Joint Pain/When to go to the Emergency Department.md
-      - Joint Pain/When to See a GP.md
-      - Joint Pain/Advice.md
-      - Joint Pain/.keep
-      - Leg Swelling/When to go to the Emergency Department.md
-      - Leg Swelling/When to See a GP.md
-      - Leg Swelling/Advice.md
-      - Leg Swelling/.keep
-      - Rash/When to go to the Emergency Department.md
-      - Rash/When to See a GP.md
-      - Rash/Advice.md
-      - Rash/.keep
-      - Back Pain/When to call Ambulance.md
-      - Back Pain/When to go to the Emergency Department.md
-      - Back Pain/When to See a GP.md
-      - Back Pain/.keep
-      - Back Pain/Advice.md
-      - Injury/When to go to the Emergency Department.md
-      - Injury/When to See a GP.md
-      - Injury/Advice.md
-      - Injury/.keep
-      - Pain on Passing Urine/When to go to the Emergency Department.md
-      - Pain on Passing Urine/When to See a GP.md
-      - Pain on Passing Urine/Advice.md
-      - Pain on Passing Urine/.keep
+      - Burns/.keep
       - Burns/When to call Ambulance.md
       - Burns/When to go to the Emergency Department.md
       - Burns/When to See a GP.md
       - Burns/Advice.md
-      - Burns/.keep
-      - Red eyes/When to go to the Emergency Department.md
-      - Red eyes/When to See a GP.md
-      - Red eyes/Advice.md
-      - Red eyes/.keep
+      - Chest Pain/.keep
+      - Chest Pain/When to Call ambulance.md
+      - Chest Pain/When to go to the Emergency Department.md
+      - Chest Pain/When to See a GP.md
+      - Chest Pain/Chest Pain Advice.md
+      - Cough/.keep
+      - Cough/When to call Ambulance.md
+      - Cough/When to go to the Emergency Department.md
+      - Cough/When to See a GP.md
+      - Cough/Advice.md
+      - Diarrhea/.keep
+      - Diarrhea/When to go to the Emergency Department.md
+      - Diarrhea/When to See a GP.md
+      - Diarrhea/Advice.md
+      - Ear Pain/.keep
       - Ear Pain/When to go to the Emergency Department.md
       - Ear Pain/When to See a GP.md
       - Ear Pain/Advice.md
-      - Ear Pain/.keep
-      - Nose Bleed/When to go to the Emergency Department.md
-      - Nose Bleed/When to See a GP.md
-      - Nose Bleed/Advice.md
-      - Nose Bleed/.keep
+      - Fever/.keep
+      - Fever/When to call Ambulance.md
+      - Fever/When to go to the Emergency Department.md
+      - Fever/When to See a GP.md
+      - Fever/Advice.md
+      - Giddiness/.keep
+      - Giddiness/When to call Ambulance.md
+      - Giddiness/When to go to the Emergency Department.md
+      - Giddiness/When to See a GP.md
+      - Giddiness/Advice.md
+      - Gum or Tooth Pain/.keep
       - Gum or Tooth Pain/When to go to the Emergency Department.md
       - Gum or Tooth Pain/When to See a GP.md
       - Gum or Tooth Pain/Advice.md
-      - Gum or Tooth Pain/.keep
-      - Throat Pain/When to go to the Emergency Department.md
-      - Throat Pain/When to See a GP.md
-      - Throat Pain/Advice.md
-      - Throat Pain/.keep
+      - Injury/.keep
+      - Injury/When to go to the Emergency Department.md
+      - Injury/When to See a GP.md
+      - Injury/Advice.md
+      - Insomnia/.keep
       - Insomnia/When to go to the Emergency Department.md
       - Insomnia/When to See a GP.md
       - Insomnia/Advice.md
-      - Insomnia/.keep
+      - Joint Pain/.keep
+      - Joint Pain/When to go to the Emergency Department.md
+      - Joint Pain/When to See a GP.md
+      - Joint Pain/Advice.md
+      - Leg Swelling/.keep
+      - Leg Swelling/When to go to the Emergency Department.md
+      - Leg Swelling/When to See a GP.md
+      - Leg Swelling/Advice.md
+      - Headache/.keep
+      - Headache/When to call Ambulance.md
+      - Headache/When to go to the Emergency Department.md
+      - Headache/When to See a GP.md
+      - Headache/Advice.md
+      - Nose Bleed/.keep
+      - Nose Bleed/When to go to the Emergency Department.md
+      - Nose Bleed/When to See a GP.md
+      - Nose Bleed/Advice.md
+      - Pain on Passing Urine/.keep
+      - Pain on Passing Urine/When to go to the Emergency Department.md
+      - Pain on Passing Urine/When to See a GP.md
+      - Pain on Passing Urine/Advice.md
+      - Rash/.keep
+      - Rash/When to go to the Emergency Department.md
+      - Rash/When to See a GP.md
+      - Rash/Advice.md
+      - Red eyes/.keep
+      - Red eyes/When to go to the Emergency Department.md
+      - Red eyes/When to See a GP.md
+      - Red eyes/Advice.md
+      - Throat Pain/.keep
+      - Throat Pain/When to go to the Emergency Department.md
+      - Throat Pain/When to See a GP.md
+      - Throat Pain/Advice.md
+      - Vomiting/.keep
+      - Vomiting/When to call Ambulance.md
+      - Vomiting/When to go to the Emergency Department.md
+      - Vomiting/When to See a GP.md
+      - Vomiting/Advice.md
+      - Weakness/.keep
+      - Weakness/When to call Ambulance.md
+      - Weakness/When to go to the Emergency Department.md
+      - Weakness/When to See a GP.md
+      - Weakness/Advice.md
