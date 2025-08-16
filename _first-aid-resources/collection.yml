@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Back Pain.md
+      - Breathlessness/When to See a GP.md
       - Breathlessness/Advice.md
       - Breathlessness/.keep
       - Chest Pain/.keep
