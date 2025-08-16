@@ -5,3 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Joint Pain
 ---
+<p></p>
