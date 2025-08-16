@@ -17,3 +17,6 @@ fever (abscess suspected)
 </li>
 </ol>
 <p></p>
+<p>Early diagnosis and treatment by a dentist can prevent the issue from
+worsening and save your tooth. Many dentists allow walk-ins or next day
+appointments, which may be superior than emergency department.</p>
