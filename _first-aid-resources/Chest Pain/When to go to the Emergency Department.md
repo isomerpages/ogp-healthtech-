@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Chest Pain
 ---
-<p><strong>Go to the Emergency Department or Urgent Care Centre if you experience the following:</strong>
-</p>
+<h3><strong>Go to the Emergency Department or Urgent Care Centre if you experience the following:</strong></h3>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
