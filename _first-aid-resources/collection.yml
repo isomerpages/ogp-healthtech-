@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Vomiting/.keep
       - Gum or Tooth Pain/.keep
       - Nose Bleed/.keep
       - Rash/.keep
