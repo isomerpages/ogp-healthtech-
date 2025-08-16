@@ -2,8 +2,8 @@ collections:
   where-to-go:
     output: true
     order:
-      - Abdominal Pain/Abdominal Pain.md
       - Abdominal Pain/.keep
+      - Abdominal Pain/Abdominal Pain.md
       - Abdominal Pain/Advice.md
       - Back Pain/.keep
       - Back Pain/When to call Ambulance.md
@@ -52,6 +52,11 @@ collections:
       - Gum or Tooth Pain/When to go to the Emergency Department.md
       - Gum or Tooth Pain/When to See a GP.md
       - Gum or Tooth Pain/Advice.md
+      - Headache/.keep
+      - Headache/When to call Ambulance.md
+      - Headache/When to go to the Emergency Department.md
+      - Headache/When to See a GP.md
+      - Headache/Advice.md
       - Injury/.keep
       - Injury/When to go to the Emergency Department.md
       - Injury/When to See a GP.md
@@ -68,11 +73,6 @@ collections:
       - Leg Swelling/When to go to the Emergency Department.md
       - Leg Swelling/When to See a GP.md
       - Leg Swelling/Advice.md
-      - Headache/.keep
-      - Headache/When to call Ambulance.md
-      - Headache/When to go to the Emergency Department.md
-      - Headache/When to See a GP.md
-      - Headache/Advice.md
       - Nose Bleed/.keep
       - Nose Bleed/When to go to the Emergency Department.md
       - Nose Bleed/When to See a GP.md
