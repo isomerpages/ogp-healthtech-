@@ -13,15 +13,15 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: STAR GP and GPFirst
+          description: Services provided by GP
+          url: /gp-first-services/
+        - title: First Aid Resources
+          description: First aid and advice
+          url: /first-aid-resources/
+        - title: Wait times
+          description: Estimates of ED and GP
+          url: /ed-waiting-times-page/
   - infobar:
       title: Information for Medical Needs
       description: Information regarding use of Emergency Department, GP+, GP-First
