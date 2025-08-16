@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Head (Eyes Ears Throat)/.keep
       - List of Conditions.md
       - Chest and Abdomen/.keep
       - Chest and Abdomen/Chest Pain.md
