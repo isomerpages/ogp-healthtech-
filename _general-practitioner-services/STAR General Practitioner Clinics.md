@@ -22,7 +22,7 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="1">
 <p>Clinic</p>
 </th>
 <th rowspan="1" colspan="4">
@@ -34,9 +34,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Bladder Catherisation</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,15 +43,16 @@ description: ""
 <p>Nail removal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Drainage of abscess</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Abscess Drainage</p>
+<p>Foreign body removal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DR+ PAINCARE AND MEDICAL BISHAN</p>
+<p><a href="https://drplus.com.sg/clinic/drplus-bishan-clinic/" rel="noopener nofollow" target="_blank">Dr+ Paincare and Medical Bishan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
