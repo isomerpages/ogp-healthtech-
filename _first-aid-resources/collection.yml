@@ -2,6 +2,7 @@ collections:
   first-aid-resources:
     output: true
     order:
+      - Fever/.keep
       - Leg Swelling/.keep
       - Abdominal Pain/.keep
       - Chest Pain/.keep
