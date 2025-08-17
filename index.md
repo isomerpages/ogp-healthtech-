@@ -13,18 +13,18 @@ sections:
       button: Welcome
       url: /aims/
       key_highlights:
-        - title: Estimated Waiting times
-          description: EDs and GPs Near You
-          url: /ed-waiting-times-page/
-        - title: Emergency Department
-          description: Emergency Care by EDs
-          url: /emergency-department-services-by-specialty/
-        - title: STAR GP and GPFirst
-          description: Urgent Care by GPs
-          url: /gp-first-services/
         - title: Where should i go
           description: Condition-specific advice
           url: /where-to-go/
+        - title: ED List
+          description: EDs and GPs Near You
+          url: /ed-list/
+        - title: STAR GP and GPFirst
+          description: Urgent Care by GPs
+          url: /gp-first-services/
+        - title: STAR Chatbot
+          description: Click to start chatting!
+          url: https://adm.vica.gov.sg/sharing/starbot-1udmxx
   - infobar:
       title: Information for Medical Needs
       description: Helping you to choose the right care option for your acute illness.
