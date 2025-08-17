@@ -1,13 +1,19 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: tiptap
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
-
-#### **General Legal Information**
-
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
-
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+<h3><strong>General Terms and Conditions on the Use of the STAR Website and STARbot</strong></h3>
+<p>Every effort is taken to ensure that the information published on our
+website and given by our STARbot is accurate and informative.</p>
+<p>Our website and chatbot are not intended to replace a consultation with
+an appropriately qualified medical practitioner. We accept no responsibility
+for any loss, damage or injury that arises from the use of these.</p>
+<p>Links are provided for information and convenience. We cannot accept responsibility
+for the sites linked to, or the information found there. Apart from the
+Singhealth Emergency Departments we practise at, we are not affliated to
+any of the other healthcare institutions or clinics linked on our website.</p>
+<p>We make every effort to ensure our website and chatbot is available 24
+hours a day, 365 days a year. However, we cannot guarantee uninterrupted
+access to the website, or to the sites to which it links. We accept no
+responsibility for any damages arising from the loss of use of this information.</p>
