@@ -16,7 +16,7 @@ description: ""
 </p>
 <p><a href="https://www.kkh.com.sg/clinic-visit/emergency-care" rel="noopener nofollow" target="_blank">KK Women's and Children's Hospital</a>
 </p>
-<p><a href="https://www.nuh.com.sg/care-at-nuh/services/emergency-medicine/wait-times-at-the-emergency-department" rel="noopener nofollow" target="_blank">National University Hospital </a>
+<p><a href="https://www.nuh.com.sg/care-at-nuh/services/emergency-medicine/wait-times-at-the-emergency-department" rel="noopener nofollow" target="_blank">National University Hospital</a>
 </p>
 <p><a href="https://www.ntfgh.com.sg/for-patients-and-visitors/emergency-department-wait-times" rel="noopener nofollow" target="_blank">Ng Teng Fong General Hospital ED</a>
 </p>
