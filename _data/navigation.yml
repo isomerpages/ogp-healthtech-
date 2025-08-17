@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: ED List
-    url: /ed-waiting-times-page/
+    url: /ed-list/
   - title: ED Services
     collection: emergency-department-services
   - title: GP Services
