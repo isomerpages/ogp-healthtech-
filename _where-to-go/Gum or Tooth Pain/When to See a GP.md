@@ -5,7 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Gum or Tooth Pain
 ---
-<h3>See a Dentist instead of a GP</h3>
+<h4></h4>
+<h4><strong><u>When to go to the Emergency Department</u></strong></h4>
+<p></p>
+<p>Associated with persistent profuse bleeding that does not stop despite
+applying pressure with gauze</p>
+<p></p>
+<p>Heavy bleeding from the tooth</p>
+<p></p>
+<h4><strong><u>See a Dentist instead of a GP</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Especially with significant swelling seen externally over the jaw and
