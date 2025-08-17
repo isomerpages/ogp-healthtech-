@@ -1,5 +1,5 @@
 collections:
-  current-waiting-times:
+  ed-services:
     output: true
     order:
       - Emergency Department Services.md
