@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Singhealth Triage and Recommendations
+description: S.T.A.R. Track Prototype for OGP X Singhealth Make-A-Thon
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
