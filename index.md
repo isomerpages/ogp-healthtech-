@@ -13,14 +13,14 @@ sections:
       button: Welcome
       url: /aims/
       key_highlights:
-        - title: Where should i go
-          description: Condition-specific advice
+        - title: Where to GO
+          description: Get advice for your condition
           url: /where-to-go/
         - title: ED List
-          description: EDs and GPs Near You
+          description: Find an ED for your condition
           url: /ed-list/
         - title: STAR GP and GPFirst
-          description: Urgent Care by GPs
+          description: Find a GP for your condition
           url: /gp-first-services/
         - title: STAR Chatbot
           description: Click to start chatting!
