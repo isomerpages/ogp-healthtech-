@@ -16,7 +16,7 @@ sections:
         - title: Where to GO
           description: Get advice for your condition
           url: /where-to-go/
-        - title: ED List
+        - title: ED SERVICES
           description: Find an ED for your condition
           url: /ed-list/
         - title: STAR GP and GPFirst
