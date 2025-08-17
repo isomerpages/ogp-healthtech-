@@ -22,7 +22,7 @@ sections:
         - title: STAR GP and GPFirst
           description: Find a GP for your condition
           url: /gp-first-services/
-        - title: STAR Chatbot
+        - title: STAR bot
           description: Click to start chatting!
           url: https://adm.vica.gov.sg/sharing/starbot-1udmxx
   - infobar:
