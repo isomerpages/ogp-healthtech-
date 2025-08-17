@@ -42,3 +42,8 @@ to each patient, but increases the risk of burnout.</p>
 </li>
 </ol>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Team S.T.A.R. Track" src="/images/IMG_0002.jpg">
+</div>
+<p></p>
