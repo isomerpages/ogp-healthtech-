@@ -59,16 +59,19 @@ be directed to their websites.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -77,10 +80,12 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No</p>
@@ -98,19 +103,23 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -119,19 +128,24 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -140,19 +154,24 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -161,19 +180,24 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,19 +206,24 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -203,19 +232,23 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>N0</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -224,19 +257,21 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -245,19 +280,23 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -266,19 +305,20 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p><strong>Yes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 </tr>
 </tbody>
