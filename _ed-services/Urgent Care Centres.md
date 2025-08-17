@@ -4,6 +4,8 @@ permalink: /ed-and-ucc-waiting-times/
 variant: tiptap
 description: ""
 ---
+<p>Click for more details</p>
+<p></p>
 <p><a href="https://www.thomsonmedical.com/centres/urgent-care-centre" rel="noopener nofollow" target="_blank">Thomson Medical 24 Hr Urgent Care Centre</a>
 </p>
 <p><a href="https://mtalvernia.sg/clinical_services/24hr-urgent-care-centre/" rel="noopener nofollow" target="_blank">Mt Alvernia 24 Hr Urgent Care Centre</a>
