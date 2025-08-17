@@ -18,6 +18,7 @@ third_nav_title: Vomiting
 <p></p>
 <p>Vomiting is mild and still able to tolerate some feeds.</p>
 <p></p>
-<p>See a gynaecologist if you are known to be pregnant (Some Emergency Department
-such as Sengkang Hospital and Changi General Hospital does not have an
-on-site Gynaecologist and you may need to be transferred to another hospital)</p>
+<p>See a gynaecologist if you are known to be pregnant, you may potentially
+need a gynaecologist review. (Some Emergency Department such as Sengkang
+Hospital and Changi General Hospital does not have an on-site Gynaecologist
+and you may need to be transferred to another hospital)</p>
