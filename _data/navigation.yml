@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: ED List
     url: /ed-list/
-  - title: ED Services
-    collection: emergency-department-services
   - title: GP Services
     collection: gp-services
   - title: Where To Go
