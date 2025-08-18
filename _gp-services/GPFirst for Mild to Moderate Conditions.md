@@ -50,6 +50,7 @@ description: ""
 <p></p>
 <p><strong>These GPs are able to make subsidised referrals for patients with CHAS Cards to the specialist outpatient clinics as well.</strong>
 </p>
+<p>Book a same day appointment with a GP today throught the <a href="https://book.health.gov.sg" rel="noopener nofollow" target="_blank">Health Appointment System (HAS)</a>.</p>
 <p></p>
 <p><strong><u>List of Common acute conditions (non-exhaustive) that GPs can treat:</u></strong>
 </p>
