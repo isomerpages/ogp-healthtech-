@@ -50,7 +50,8 @@ description: ""
 <p></p>
 <p><strong>These GPs are able to make subsidised referrals for patients with CHAS Cards to the specialist outpatient clinics as well.</strong>
 </p>
-<p>Book a same day appointment with a GP today throught the <a href="https://book.health.gov.sg" rel="noopener nofollow" target="_blank">Health Appointment System (HAS)</a>.</p>
+<p>Use the <a href="https://book.health.gov.sg" rel="noopener nofollow" target="_blank">Health Appointment System (HAS)</a> to
+book a same day appointment with a GP.</p>
 <p></p>
 <p><strong><u>List of Common acute conditions (non-exhaustive) that GPs can treat:</u></strong>
 </p>
@@ -75,6 +76,6 @@ description: ""
 <p>Toe and finger fractures</p>
 <p>Urinary tract infection</p>
 <p>Vaginal Discharge</p>
-<p>Wounds requiring dressing, Tetanus</p>
+<p>Wounds requiring dressing and Tetanus Vaccination</p>
 <p></p>
 <p></p>
