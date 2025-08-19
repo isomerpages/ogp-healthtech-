@@ -1,0 +1,74 @@
+collections:
+  where-to-go:
+    output: true
+    order:
+      - Where to go.md
+      - Abdominal Pain/.keep
+      - Abdominal Pain/Abdominal Pain.md
+      - Abdominal Pain/Advice.md
+      - Back Pain/.keep
+      - Back Pain/Back Pain.md
+      - Back Pain/Advice.md
+      - Breathlessness/.keep
+      - Breathlessness/Breathlessness.md
+      - Breathlessness/Advice.md
+      - Burns/.keep
+      - Burns/Burns.md
+      - Burns/Advice.md
+      - Chest Pain/.keep
+      - Chest Pain/Chest Pain.md
+      - Chest Pain/Advice.md
+      - Cough/.keep
+      - Cough/Cough.md
+      - Cough/Advice.md
+      - Diarrhea/.keep
+      - Diarrhea/Diarrhea.md
+      - Diarrhea/Advice.md
+      - Ear Pain/.keep
+      - Ear Pain/Ear Pain.md
+      - Ear Pain/Advice.md
+      - Fever/.keep
+      - Fever/Fever.md
+      - Fever/Advice.md
+      - Giddiness/.keep
+      - Giddiness/Giddiness.md
+      - Giddiness/Advice.md
+      - Gum or Tooth Pain/.keep
+      - Gum or Tooth Pain/Gum or Tooth Pain.md
+      - Gum or Tooth Pain/Advice.md
+      - Headache/.keep
+      - Headache/Headache.md
+      - Headache/Advice.md
+      - Injury/.keep
+      - Injury/Injury.md
+      - Injury/Advice.md
+      - Insomnia/.keep
+      - Insomnia/Insomnia.md
+      - Insomnia/Advice.md
+      - Joint Pain/.keep
+      - Joint Pain/Joint Pain.md
+      - Joint Pain/Advice.md
+      - Leg Swelling/.keep
+      - Leg Swelling/Leg Swelling.md
+      - Leg Swelling/Advice.md
+      - Nose Bleed/.keep
+      - Nose Bleed/Nose Bleed.md
+      - Nose Bleed/Advice.md
+      - Pain on Passing Urine/.keep
+      - Pain on Passing Urine/Pain on passing urine.md
+      - Pain on Passing Urine/Advice.md
+      - Rash/.keep
+      - Rash/Rash.md
+      - Rash/Advice.md
+      - Red eyes/.keep
+      - Red eyes/Red eyes.md
+      - Red eyes/Advice.md
+      - Throat Pain/.keep
+      - Throat Pain/Throat Pain.md
+      - Throat Pain/Advice.md
+      - Vomiting/.keep
+      - Vomiting/Vomiting.md
+      - Vomiting/Advice.md
+      - Weakness/.keep
+      - Weakness/Weakness.md
+      - Weakness/Advice.md

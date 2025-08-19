@@ -1,0 +1,9 @@
+collections:
+  ed-services:
+    output: true
+    order:
+      - Wait Times.md
+      - Emergency Department Services.md
+      - ED List.md
+      - Urgent Care Centres.md
+      - Nurse First Helpline.md
