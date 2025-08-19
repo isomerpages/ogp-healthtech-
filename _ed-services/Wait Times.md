@@ -1,4 +1,5 @@
 ---
+layout: datagovsg-search
 title: Wait Times
 permalink: /wait-times/
 description: ""
