@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Gum or Tooth Pain
 ---
+<h2>Gum or toothache</h2>
 <h3>1. Immediate Relief and Self-Care</h3>
 <p></p>
 <p>These tips can help provide temporary comfort while you seek professional
