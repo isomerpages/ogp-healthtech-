@@ -9,7 +9,7 @@ third_nav_title: Leg Swelling
 <p>Severe swelling in one leg, especially if it is accompanied by pain, redness,
 or warmth.</p>
 <p>Leg swelling with shortness of breath or chest pain.</p>
-<p>Severe Swelling in both legs</p>
+<p>Severe Swelling in both legs.</p>
 <p></p>
 <h4><strong><u>Visit a GP or Polyclinic if you have:</u></strong></h4>
 <p>Mild leg swelling that is present in both legs (bilateral), especially
