@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Breathlessness
 ---
+<h2>Breathlessness</h2>
 <h3>General Advice</h3>
 <p></p>
 <ul data-tight="true" class="tight">
