@@ -10,7 +10,7 @@ third_nav_title: Throat Pain
 <p>Shortness of breath.</p>
 <p>Hoarseness of voice.</p>
 <p>Inability to swallow.</p>
-<p>A non-visible lodged foreign body. (e.g. Fish bone)</p>
+<p>A non-visible lodged foreign body. (e.g. Fish bone).</p>
 <p></p>
 <h4><strong><u>Visit a GP or Polyclinic if you have:</u></strong></h4>
 <p>A visible lodged foreign body.</p>
