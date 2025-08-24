@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Vomiting
 ---
+<h2>Vomiting</h2>
 <h3>1. Immediate Actions During a Vomiting Spell</h3>
 <p></p>
 <ul>
