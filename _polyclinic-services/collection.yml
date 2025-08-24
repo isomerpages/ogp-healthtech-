@@ -2,4 +2,5 @@ collections:
   polyclinic-services:
     output: true
     order:
+      - Polyclinic opening hours.md
       - Video Consultation.md
