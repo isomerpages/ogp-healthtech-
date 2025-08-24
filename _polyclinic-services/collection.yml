@@ -1,4 +1,5 @@
 collections:
   polyclinic-services:
     output: true
-    order: []
+    order:
+      - SHS Polyclinics.md
