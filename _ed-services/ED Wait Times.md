@@ -24,46 +24,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Changi General Hospital</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20/08/25 @ 1800H</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>KK Woman's Children Hospital</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20/08/25 @ 1700H</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sengkang General Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20/08/2025 @ 1800H</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore General Hospital</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20/08/2025 @ 1800H</p>
+<p>24/08/2025 @ 1800H</p>
 </td>
 </tr>
 <tr>
@@ -95,6 +62,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>The above ED Wait times are approximate.</p>
+<p>The above ED Wait times for Hospitals in the <u>Northeast region</u> are
+approximate.</p>
 <p>Patients are not seen in order of arrival – those with more severe conditions
 will be treated first.</p>
