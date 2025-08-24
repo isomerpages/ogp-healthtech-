@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Abdominal Pain
 ---
-<h3>Abdominal Pain</h3>
+<h2>Abdominal Pain</h2>
 <p>Abdominal pain, commonly known as stomach or belly pain, can be caused
 by a wide variety of factors, from minor issues like gas or indigestion
 to more serious medical conditions. Practical advice for managing abdominal
