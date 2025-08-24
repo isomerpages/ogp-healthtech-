@@ -6,12 +6,12 @@ description: ""
 third_nav_title: Back Pain
 ---
 <h4><strong><u>Call an Ambulance if you have:</u></strong></h4>
-<p>Severe pain with inability to walk</p>
+<p>Severe pain with inability to walk.</p>
 <h4><strong><u>Visit the Emergency Department if you have:</u></strong></h4>
 <p>Sudden, severe back pain after a fall or a major injury.</p>
 <p>Back pain with loss of bladder or bowel control, or numbness in the groin
 area (a condition known as cauda equina syndrome).</p>
-<p>Back pain with new weakness or numbness in the legs</p>
+<p>Back pain with new weakness or numbness in the legs.</p>
 <p>Back pain accompanied by a high fever, chills, or a headache, which could
 be a sign of a serious infection.</p>
 <p>Back pain with a history of cancer, osteoporosis, or recent surgery.</p>
