@@ -9,14 +9,16 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/gpfirst_logo.png">
 </div>
 <p></p>
-<p><strong>The GPFirst programme encourages people with mild to moderate acute medical conditions (See list below) to visit their General Practitioner (GP) first, rather than going directly to the Emergency Department (ED).</strong>
-</p>
-<p><strong>This enables EDs to focus on more urgent cases requiring medical attention and allows patients with milder conditions to receive earlier treatment by their GPs.</strong>
-</p>
-<p><strong>Residents receive a $50 subsidy on the prevailing ED attendance fee if subsequently referred by a GPFirst GP to the EDs.</strong>
-</p>
-<p><strong>These GPs are able to make subsidised referrals for patients with CHAS Cards to the specialist outpatient clinics as well.</strong>
-</p>
+<p>The GPFirst programme encourages people with mild to moderate acute medical
+conditions (See list below) to visit their GP first, rather than going
+directly to the ED.</p>
+<p>This enables EDs to focus on more urgent cases requiring medical attention
+and allows patients with milder conditions to receive earlier treatment
+by their GPs.</p>
+<p>Residents receive a $50 subsidy on the prevailing ED attendance fee if
+subsequently referred by a GPFirst GP to the EDs.</p>
+<p>These GPs are able to make subsidised referrals for patients with CHAS
+Cards to the specialist outpatient clinics as well.</p>
 <p>Use the <a href="https://book.health.gov.sg" rel="noopener nofollow" target="_blank">Health Appointment System (HAS)</a> to
 book a same day appointment with a GP.</p>
 <p></p>
@@ -31,11 +33,11 @@ book a same day appointment with a GP.</p>
 <p>Constipation</p>
 <p>Diarrhea</p>
 <p>Ear Wax</p>
-<p>Fever of any temperature</p>
+<p>Fever</p>
 <p>Giddiness/Vertigo</p>
 <p>Head injury (Mild)</p>
 <p>High blood glucose</p>
-<p>Ingrown toe nail not requiring excision</p>
+<p>Ingrown toenail</p>
 <p>Insomnia</p>
 <p>Migraine</p>
 <p>Palpitations</p>
