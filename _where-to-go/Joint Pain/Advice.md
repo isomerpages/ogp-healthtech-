@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Joint Pain
 ---
+<h2>Joint Pain</h2>
 <h3>Here are some practical tips for managing joint pain.</h3>
 <p></p>
 <h3>1. Immediate and Short-Term Relief</h3>
