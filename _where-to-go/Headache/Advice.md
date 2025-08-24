@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Headache
 ---
+<h2>Headache</h2>
 <h3>Immediate Relief for a Headache</h3>
 <p></p>
 <ul>
