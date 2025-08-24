@@ -17,7 +17,7 @@ be due to a stroke.</p>
 <p>Weakness that is new and getting worse over a short period.</p>
 <p>Weakness with other concerning symptoms like a fever or difficulty swallowing.</p>
 <p></p>
-<h4><strong><u>Visit a GP if you have:</u></strong></h4>
+<h4><strong><u>Visit a GP or Polyclinic if you have:</u></strong></h4>
 <p>Generalized weakness that you feel is related to a mild illness like a
 viral infection.</p>
 <p>Chronic or long-standing weakness that you need to get a diagnosis for.</p>
