@@ -9,14 +9,14 @@ third_nav_title: Breathlessness
 <p></p>
 <p>Sudden, severe difficulty breathing, especially if it's accompanied by
 chest pain, a feeling of suffocation, or a change in skin color (bluish
-lips or fingertips)</p>
+lips or fingertips).</p>
 <p></p>
 <p>Inability to speak or catch your breath.</p>
 <p></p>
 <p>Severe persistent shortness of breath that comes on suddenly for no clear
-reason</p>
+reason.</p>
 <p></p>
-<p>If you hear wheezing sounds as you breathe</p>
+<p>If you hear wheezing sounds as you breathe.</p>
 <p></p>
 <h4><strong><u>Visit the Emergency Department if you have:</u></strong></h4>
 <p></p>
@@ -33,5 +33,5 @@ or another serious lung infection.</p>
 with daily life.</p>
 <p></p>
 <p>Shortness of breath related to a known condition like asthma, where you
-need a medication refill or a change in your treatment plan</p>
+need a medication refill or a change in your treatment plan.</p>
 <p></p>
