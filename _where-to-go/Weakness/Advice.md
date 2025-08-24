@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Weakness
 ---
-<h2>Tiredness and generalized muscle aches</h2>
+<h2>Weakness and fatigue</h2>
 <p></p>
 <h3>Rest and Recovery 😴</h3>
 <p></p>
-<p>Prioritize rest to allow your immune system to fight the virus effectively.
+<p>Prioritize rest to allow your immune system to fight any virus effectively.
 This includes:</p>
 <ul>
 <li>
