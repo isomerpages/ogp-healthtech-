@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Ear Pain
 ---
+<h2>Earache</h2>
 <h3>1. Immediate Soothing and Self-Care</h3>
 <p></p>
 <p>These tips are for providing temporary relief for mild to moderate ear
