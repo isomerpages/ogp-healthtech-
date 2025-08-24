@@ -19,7 +19,7 @@ sections:
         - title: ED SERVICES
           description: Visit the ED or UCC
           url: /ed-wait-times/
-        - title: STAR GP and GPFirst
+        - title: GPFirst and S.T.A.R GP
           description: Visit the GP
           url: /gp-first-services/
         - title: Polyclinic Services
