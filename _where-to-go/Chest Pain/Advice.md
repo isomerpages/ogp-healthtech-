@@ -5,7 +5,7 @@ third_nav_title: Chest Pain
 variant: tiptap
 description: ""
 ---
-<h1><strong>Chest Pain</strong></h1>
+<h2>Chest Pain</h2>
 <p>Chest pain is a common symptom with many possible causes, and not all
 of them are related to the heart. However, because chest pain can be a
 sign of a life-threatening heart attack, it is crucial to take it seriously.
