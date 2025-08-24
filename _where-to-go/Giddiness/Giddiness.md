@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Giddiness
 ---
-<h4><strong><u>When to Call an Ambulance</u></strong></h4>
+<h4><strong><u>Call an Ambulance if you have:</u></strong></h4>
 <p></p>
-<p>Sudden onset of One sided weakness, slurred speech that may be due to
+<p>Sudden onset of One-sided weakness or slurred speech that may be due to
 a stroke</p>
 <p></p>
 <p></p>
-<h4><strong><u>When to go to the Emergency Department</u></strong></h4>
+<h4><strong><u>Visit the Emergency Department if you have:</u></strong></h4>
 <p></p>
 <p>Sudden onset of severe dizziness or giddiness, especially if accompanied
 by a severe headache, weakness on one side of the body, difficulty speaking,
@@ -24,7 +24,7 @@ or a change in vision.</p>
 <p></p>
 <p>Dizziness with a high fever, vomiting, or other signs of dehydration.</p>
 <p></p>
-<h4><strong><u>When to See a GP</u></strong></h4>
+<h4><strong><u>Visit a GP or Polyclinic if you have:</u></strong></h4>
 <p></p>
 <p>Mild, occasional dizziness that you suspect is related to a minor illness,
 like a cold or a sinus infection.</p>
