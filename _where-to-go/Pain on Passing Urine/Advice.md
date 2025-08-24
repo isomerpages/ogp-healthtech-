@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Pain on Passing Urine
 ---
+<h2>Pain on passing Urine</h2>
 <h3>1. Immediate Soothing and Comfort</h3>
 <p></p>
 <p>These tips can help provide some relief while you determine the underlying
