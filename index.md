@@ -24,7 +24,7 @@ sections:
           url: /gp-first-services/
         - title: Polyclinic Services
           description: Visit the Polyclinic
-          url: /polyclinic-services
+          url: /polyclinic-opening-hours/
   - infobar:
       title: Information for Medical Needs
       description: Helping you to choose the right care option for your acute illness.
