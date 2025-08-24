@@ -4,8 +4,8 @@ permalink: /polyclinic-opening-hours/
 variant: tiptap
 description: ""
 ---
-<p>For mild acute conditions, you can visit the following polyclinics in
-the Northeast:</p>
+<p>For mild acute conditions, you can visit the following Singhealth polyclinics
+in the Northeast:</p>
 <p><a href="https://polyclinic.singhealth.com.sg/our-polyclinics/shp-sengkang" rel="noopener noreferrer nofollow" target="_blank">SHP-Sengkang | SingHealth Polyclinics</a>
 </p>
 <p><a href="https://polyclinic.singhealth.com.sg/our-polyclinics/shp-punggol" rel="noopener noreferrer nofollow" target="_blank">SHP-Punggol | SingHealth Polyclinics</a>
