@@ -4,7 +4,7 @@ permalink: /star-general-practitioner-clinics/
 variant: tiptap
 description: ""
 ---
-<p><strong>STAR GPs</strong> are those able to perform some or all of the
+<p><strong>S.T.A.R GPs</strong> are those able to perform some or all of the
 following procedures.</p>
 <p></p>
 <p>To find out their location and opening hours, click on the <strong>Clinic names </strong>to
