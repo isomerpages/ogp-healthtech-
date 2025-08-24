@@ -18,7 +18,7 @@ sections:
           url: /where-to-go/
         - title: ED SERVICES
           description: Visit the ED or UCC
-          url: /ed-list/
+          url: /ed-wait-times/
         - title: STAR GP and GPFirst
           description: Visit the GP
           url: /gp-first-services/
