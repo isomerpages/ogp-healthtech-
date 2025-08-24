@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Breathlessness
 ---
-<h4><strong><u>When to Call an Ambulance</u></strong></h4>
+<h4><strong><u>Call an Ambulance if you have:</u></strong></h4>
 <p></p>
 <p>Sudden, severe difficulty breathing, especially if it's accompanied by
 chest pain, a feeling of suffocation, or a change in skin color (bluish
@@ -18,7 +18,7 @@ reason</p>
 <p></p>
 <p>If you hear wheezing sounds as you breathe</p>
 <p></p>
-<h4><strong><u>When to go to the Emergency Department</u></strong></h4>
+<h4><strong><u>Visit the Emergency Department if you have:</u></strong></h4>
 <p></p>
 <p>Shortness of breath that is new or worsening, but not immediately life-threatening.</p>
 <p></p>
@@ -27,7 +27,7 @@ reason</p>
 <p>Shortness of breath with a fever or cough, as this could indicate pneumonia
 or another serious lung infection.</p>
 <p></p>
-<h4><strong><u>When to See a GP</u></strong></h4>
+<h4><strong><u>Visit the GP or Polyclinic if you have:</u></strong></h4>
 <p></p>
 <p>Chronic or long-standing breathlessness that is mild and not interfering
 with daily life.</p>
