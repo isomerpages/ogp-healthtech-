@@ -6,7 +6,7 @@ links:
     collection: ed-services
   - title: GP Services
     collection: gp-services
-  - title: STARbot
-    url: https://adm.vica.gov.sg/sharing/starbot-1udmxx
+  - title: Polyclinic Services
+    collection: polyclinic-services
   - title: Contact Us
     url: /contact-us/
