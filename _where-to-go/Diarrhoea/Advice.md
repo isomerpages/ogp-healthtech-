@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Diarrhoea
 ---
+<h2>Diarrhoea</h2>
 <h3>Immediate and Short-Term Relief</h3>
 <p></p>
 <ul>
