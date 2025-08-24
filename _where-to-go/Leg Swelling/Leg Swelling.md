@@ -11,7 +11,7 @@ or warmth.</p>
 <p>Leg swelling with shortness of breath or chest pain.</p>
 <p>Severe Swelling in both legs</p>
 <p></p>
-<h4><strong><u>Visit a GP if you have:</u></strong></h4>
+<h4><strong><u>Visit a GP or Polyclinic if you have:</u></strong></h4>
 <p>Mild leg swelling that is present in both legs (bilateral), especially
 if it's related to prolonged sitting or standing.</p>
 <p>Mild leg swelling with fever.</p>
