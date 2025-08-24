@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Vomiting
 ---
 <h4><strong><u>Visit the Emergency Department if you have:</u></strong></h4>
-<p>Associated with head injury and confusion</p>
-<p>Inability to pass motion or gas</p>
-<p>Diabetic and blood sugar level is high</p>
+<p>Head injury and confusion.</p>
+<p>Inability to pass motion or gas.</p>
 <p>* If you are pregnant, please only visit hospitals with O and G services.
 (i.e. KKWCH, SGH or NUH)</p>
 <p></p>
