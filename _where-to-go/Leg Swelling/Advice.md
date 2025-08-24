@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Leg Swelling
 ---
-<h2>Lower Limb Swelling</h2>
-<p>Lower limb swelling is a common condition where fluid builds up in the
-legs, ankles, and feet, causing puffiness and a feeling of heaviness. While
-it can be a temporary and harmless issue (due to long periods of standing
+<h2>Leg swelling</h2>
+<p>Leg swelling is a common condition where fluid builds up in the legs,
+ankles, and feet, causing puffiness and a feeling of heaviness. While it
+can be a temporary and harmless issue (due to long periods of standing
 or sitting), it can also be a sign of a more serious underlying medical
 condition.</p>
 <p></p>
