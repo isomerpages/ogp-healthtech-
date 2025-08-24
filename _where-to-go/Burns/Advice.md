@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Burns
 ---
+<h2>Burns</h2>
 <h3>Immediate First Aid for Minor Burns (First- and Second-Degree)</h3>
 <p></p>
 <p>Minor burns are characterized by red, painful skin (first-degree) or blisters
