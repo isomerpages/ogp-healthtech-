@@ -13,41 +13,8 @@ description: ""
 </p>
 <p><strong>This enables EDs to focus on more urgent cases requiring medical attention and allows patients with milder conditions to receive earlier treatment by their GPs.</strong>
 </p>
-<p><strong>Residents receive a $50 subsidy on the prevailing ED attendance fee if subsequently referred by a GPFirst GP to any of the following EDs and UCCs:</strong>
+<p><strong>Residents receive a $50 subsidy on the prevailing ED attendance fee if subsequently referred by a GPFirst GP to the EDs.</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Changi General Hospital (CGH)</p>
-</li>
-<li>
-<p>Khoo Teck Puat Hospital (KTPH)</p>
-</li>
-<li>
-<p>National University Hospital (NUH) – Adult ED only</p>
-</li>
-<li>
-<p>Ng Teng Fong General Hospital (NTFGH)</p>
-</li>
-<li>
-<p>Sengkang General Hospital (SKH)</p>
-</li>
-<li>
-<p>Singapore General Hospital (SGH)</p>
-</li>
-<li>
-<p>Tan Tock Seng Hospital (TTSH)</p>
-</li>
-<li>
-<p>Woodlands General Hospital (WHC)</p>
-</li>
-<li>
-<p>Alexandra Hospital&nbsp;Urgent Care Centre (AH UCC)</p>
-</li>
-<li>
-<p>Urgent Care Centre (UCC) @ Admiralty</p>
-</li>
-</ul>
-<p></p>
 <p><strong>These GPs are able to make subsidised referrals for patients with CHAS Cards to the specialist outpatient clinics as well.</strong>
 </p>
 <p>Use the <a href="https://book.health.gov.sg" rel="noopener nofollow" target="_blank">Health Appointment System (HAS)</a> to
