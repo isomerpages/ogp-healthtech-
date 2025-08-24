@@ -9,7 +9,7 @@ third_nav_title: Abdominal Pain
 <p>Severe pain with inability to walk.</p>
 <p>Fainting from the abdominal pain</p>
 <p></p>
-<h4><strong><u>Go to the Emergency Department if you have:</u></strong></h4>
+<h4><strong><u>Visit the Emergency Department if you have:</u></strong></h4>
 <p>Sudden, severe abdominal pain that is localized or spreads across the
 abdomen.</p>
 <p>Abdominal pain with a hard or rigid abdomen, or a feeling of being bloated.</p>
