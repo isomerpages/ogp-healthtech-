@@ -22,6 +22,7 @@ Cards to the specialist outpatient clinics as well.</p>
 <p>Use the <a href="https://book.health.gov.sg" rel="noopener nofollow" target="_blank">Health Appointment System (HAS)</a> to
 book a same day appointment with a GP.</p>
 <p></p>
+<p></p>
 <p><strong><u>List of Common acute conditions (non-exhaustive) that GPs can treat:</u></strong>
 </p>
 <p>Abscesses (small)</p>
