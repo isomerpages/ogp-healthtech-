@@ -2,4 +2,4 @@ collections:
   polyclinic-services:
     output: true
     order:
-      - SHS Polyclinics.md
+      - Video Consultation.md
