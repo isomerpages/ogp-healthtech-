@@ -6,10 +6,8 @@ description: ""
 third_nav_title: Ear Pain
 ---
 <h4><strong><u>Visit the Emergency Department if you have:</u></strong></h4>
-<p></p>
-<p>Sudden onset of complete loss of hearing in one ear</p>
-<p>A foreign body in the ear</p>
+<p>Sudden onset of complete loss of hearing in one ear.</p>
+<p>A foreign body in the ear.</p>
 <p></p>
 <h4><strong><u>Visit a GP or Polyclinic if you have:</u></strong></h4>
-<p></p>
-<p>Fever and signs of infection</p>
+<p>Fever and signs of infection.</p>
