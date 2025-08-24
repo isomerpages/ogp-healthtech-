@@ -70,15 +70,13 @@ red flag.</p>
 <p><em>Important things to note: Do not drive yourself to the hospital, even if you are not coming in by ambulance. Highlight to the registration counter in the Emergency Department that your primary problem is chest pain, such that an ECG (heart tracing) is done early for you.</em>
 </p>
 <p></p>
-<p></p>
-<h3>General Advice</h3>
-<p></p>
 </li>
 </ul>
-<p>There are no perfect test that can exclude a heart attack event in the
-future, 100%. Tests may predict a low risk of heart attack of less than
-0.1% chance. However, it is important to take active steps to reduce the
-risk of heart attack by taking healthy and preventive measures.</p>
+<h3>General advice</h3>
+<p>There is no perfect test that can completely exclude a heart attack. Tests
+may predict a low risk of heart attack of less than 0.1% chance. However,
+it is important to take active steps to reduce the risk of heart attack
+by taking healthy and preventive measures.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>If you are already on medications for previous heart attack such as blood
@@ -87,21 +85,20 @@ of medications without medical advice may lead to a heart attack in the
 long run, if not in the near future.</p>
 </li>
 <li>
-<p>Visit your neighborhood GP to enroll in healthier SG screening and check
-your cholesterol levels and for diabetes screening. These are covered by
-GP subsidy and are not done routinely in the emergency department</p>
+<p>Visit your neighborhood GP or polyclinic to enroll in healthier SG screening
+and check your cholesterol levels and for diabetes screening. These are
+not done routinely in the emergency department.</p>
 </li>
 <li>
-<p>If your cholesterol is high and has been advised by your GP to consume
-medications, do be compliant to the medications. The preventive benefits
-will not be immediately apparent but they will help to reduce the risk
-of a heart attack or stroke in the future. Modify your diet to a low fat,
-low sodium diet may also help to reduce cholesterol and hypertension.</p>
+<p>Take medications prescribed by your primary care doctor. They will help
+to reduce your risk of a heart attack or stroke in the future. Modifying
+your diet to a low fat, low sodium diet may also help to reduce cholesterol
+and hypertension.</p>
 </li>
 <li>
 <p>Smoking Cessation is an important step to prevent heart attack. Smoking
 less does not help to reduce the risk as much as compared to complete cessation.
-Your GP may have the tools to help you to quit smoking.</p>
+Your primary care doctor may have the tools to help you to quit smoking.</p>
 </li>
 <li>
 <p>Vaping is not a safe alternative to smoking. The risks of heart attack
