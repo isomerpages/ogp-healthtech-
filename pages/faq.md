@@ -6,7 +6,7 @@ variant: tiptap
 <h3><strong>FAQ</strong></h3>
 <p><u>What does STAR stand for?</u>
 </p>
-<p>It stands for Singhealth Triage and Recommendation</p>
+<p>It stands for SKH Triage and Recommendation</p>
 <p></p>
 <p><u>Who Created STAR?</u>
 </p>
