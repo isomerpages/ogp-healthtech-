@@ -1,11 +1,11 @@
 logo: /images/STAR_LOGO_2___Copy.jpg
 links:
+  - title: Where To Go
+    collection: where-to-go
   - title: ED SERVICES
     collection: ed-services
   - title: GP Services
     collection: gp-services
-  - title: Where To Go
-    collection: where-to-go
   - title: STARbot
     url: https://adm.vica.gov.sg/sharing/starbot-1udmxx
   - title: Contact Us
