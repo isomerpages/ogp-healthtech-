@@ -2,5 +2,5 @@ collections:
   gp-services:
     output: true
     order:
-      - STAR GP Clinics.md
       - GPFirst for Mild to Moderate Conditions.md
+      - STAR GP Clinics.md
