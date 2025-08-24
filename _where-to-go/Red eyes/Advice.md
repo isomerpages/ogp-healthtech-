@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Red eyes
 ---
+<h2>Red Eyes</h2>
 <h3>Immediate Soothing and Self-Care</h3>
 <p></p>
 <p>These tips can help provide relief for red eyes caused by common irritations.</p>
