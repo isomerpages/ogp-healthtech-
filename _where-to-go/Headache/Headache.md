@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Headache
 ---
 <h4><strong><u>Call an Ambulance if you have:</u></strong></h4>
-<p>Sudden onset of One-sided weakness, numbness or difficulty speaking</p>
+<p>Sudden onset of One-sided weakness, numbness or difficulty speaking.</p>
 <p></p>
 <h4><strong><u>Visit the Emergency Department if you have:</u></strong></h4>
 <p>Sudden, severe headache that is the worst you have ever experienced.</p>
@@ -16,7 +16,7 @@ a change in consciousness.</p>
 <p>Headache with a fever that is not responding to over-the-counter medication.</p>
 <p>Persistent headache that is getting worse over time.</p>
 <p></p>
-<h4><strong><u>Visit the GP if you have: </u></strong></h4>
+<h4><strong><u>Visit the GP or Polyclinic if you have:</u></strong></h4>
 <p>Mild to moderate headache that you suspect is a tension headache or a
 common migraine.</p>
 <p>Chronic headaches that you need a diagnosis and management plan for.</p>
