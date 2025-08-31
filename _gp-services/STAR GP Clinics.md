@@ -232,7 +232,7 @@ be directed to their websites.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p><strong>Yes</strong>^</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Yes</strong>
@@ -323,4 +323,5 @@ be directed to their websites.</p>
 </tr>
 </tbody>
 </table>
+<p>^Patient will need to bring own urinary cathether and bag.</p>
 <p></p>
