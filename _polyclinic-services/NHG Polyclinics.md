@@ -26,5 +26,5 @@ app, available on the Google Play Store and Apple App Store.</p>
 </p>
 <p>Monday to Friday: 7:30am to 4:00pm</p>
 <p>Saturday: 7:30am to 12:00pm</p>
-<p></p>
-<p>Registration may close earlier than stated if the clinic is crowded.</p>
+<p><em>Registration may close earlier than stated if the clinic is crowded.</em>
+</p>
