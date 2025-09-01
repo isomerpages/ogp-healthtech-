@@ -12,10 +12,12 @@ in the Northeast:</p>
 </p>
 <p></p>
 <p>To make an appointment,</p>
-<p>Call 6643 6969</p>
+<p>Call 6643 6969 or</p>
 <p>Scan the QR code to book via the Health Buddy app</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shp_booking_qr.png">
+</div>
 <p></p>
 <p>Opening hours:</p>
 <p><strong><u>Monday - Friday</u></strong>
