@@ -8,8 +8,5 @@ description: ""
 comfort of your home:</p>
 <p><a href="https://polyclinic.singhealth.com.sg/our-clinic-services/shp-vc/general-medical-conditions" rel="noopener noreferrer nofollow" target="_blank">VC for General Medical Conditions | SingHealth Polyclinics</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Polyclinic_VC.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://polyclinic.singhealth.com.sg/our-clinic-services/shp-vc/vc-faq"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Polyclinic_VC.png"></a>
 <p></p>
