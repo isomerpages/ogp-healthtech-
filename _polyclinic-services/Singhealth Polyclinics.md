@@ -11,9 +11,8 @@ in the Northeast:</p>
 <p><a href="https://polyclinic.singhealth.com.sg/our-polyclinics/shp-punggol" rel="noopener noreferrer nofollow" target="_blank">SHP-Punggol | SingHealth Polyclinics</a>
 </p>
 <p></p>
-<p>To make an appointment,</p>
-<p>Call 6643 6969 or</p>
-<p>Scan the QR code to book via the Health Buddy app</p>
+<p>To make an appointment, call <u>66436969</u> or book via the Health Buddy
+app using the following QR code:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/shp_booking_qr.png">
