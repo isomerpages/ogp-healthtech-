@@ -18,6 +18,8 @@ app using the following QR code:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/shp_booking_qr.png">
 </div>
 <p></p>
+<p>Alternatively, you can schedule a video consultation.</p><a class="isomer-image-wrapper" href="https://polyclinic.singhealth.com.sg/our-clinic-services/shp-vc/vc-faq"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Polyclinic_VC.png"></a>
+<p></p>
 <p>Opening hours:</p>
 <p><strong><u>Monday - Friday</u></strong>
 <br>8.00am - 1.00pm (by appointment)
@@ -34,5 +36,6 @@ in the afternoon.*</p>
 <br>Closed</p>
 <p><u><br></u><em><u>*For patients without appointment:</u><br>Upon registration, you will be provided with an estimated time slot to be seen on the same day. The estimated time slots provided depend on the availability of slots and urgency of your condition.</em>
 </p>
+<p></p>
 <p></p>
 <p></p>
