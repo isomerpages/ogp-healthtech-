@@ -11,6 +11,13 @@ in the Northeast:</p>
 <p><a href="https://polyclinic.singhealth.com.sg/our-polyclinics/shp-punggol" rel="noopener noreferrer nofollow" target="_blank">SHP-Punggol | SingHealth Polyclinics</a>
 </p>
 <p></p>
+<p>To make an appointment,</p>
+<p>Call 6643 6969</p>
+<p>Scan the QR code to book via the Health Buddy app</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Opening hours:</p>
 <p><strong><u>Monday - Friday</u></strong>
 <br>8.00am - 1.00pm (by appointment)
 <br>For patients without appointment, last registration is at 11.30am.
