@@ -5,13 +5,14 @@ variant: tiptap
 description: ""
 ---
 <p>For mild acute conditions, you can visit the following NHG polyclinics
-in the Northeast:</p>
+in the Northeast region of Singapore:</p>
 <p><a href="https://www.nhgp.com.sg/our-polyclinics/all-polyclinics/Pages/polyclinic-amk.aspx" rel="noopener nofollow" target="_blank">Ang Mo Kio Polyclinic</a>
 </p>
 <p><a href="https://www.nhgp.com.sg/our-polyclinics/all-polyclinics/Pages/polyclinic-hougang.aspx" rel="noopener nofollow" target="_blank">Hougang Polyclinic</a>
 </p>
-<p>To make an appointment, call <u>63553000</u> or book via the NHG Health
-app, available in the Google Play Store and Apple App Store.</p>
+<p>To make a same day appointment for acute conditions, call <u>6355 3000</u> or
+book via the NHG Health app, available on Google Play Store or the Apple
+App Store.</p>
 <p></p>
 <p><strong><u>Opening hours</u></strong>
 </p>
