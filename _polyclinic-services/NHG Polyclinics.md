@@ -8,8 +8,6 @@ description: ""
 in the Northeast:</p>
 <p><a href="https://www.nhgp.com.sg/our-polyclinics/all-polyclinics/Pages/polyclinic-amk.aspx" rel="noopener nofollow" target="_blank">Ang Mo Kio Polyclinic</a>
 </p>
-<p><a href="https://www.nhgp.com.sg/our-polyclinics/all-polyclinics/Pages/polyclinic-geylang.aspx" rel="noopener nofollow" target="_blank">Geylang Polyclinic</a>
-</p>
 <p><a href="https://www.nhgp.com.sg/our-polyclinics/all-polyclinics/Pages/polyclinic-hougang.aspx" rel="noopener nofollow" target="_blank">Hougang Polyclinic</a>
 </p>
 <p>To make an appointment, call <u>63553000</u> or book via the NHG Health
@@ -26,5 +24,9 @@ app, available in the Google Play Store and Apple App Store.</p>
 </p>
 <p>Monday to Friday: 7:30am to 4:00pm</p>
 <p>Saturday: 7:30am to 12:00pm</p>
+<p><em>Registration closes at 4pm (Monday to Friday) and 12pm (Saturday)</em>
+</p>
+<p><em>Registration may close earlier than stated if the clinic is crowded.</em>
+</p>
 <p><em>Registration may close earlier than stated if the clinic is crowded.</em>
 </p>
