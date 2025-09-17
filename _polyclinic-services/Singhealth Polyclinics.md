@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 ---
 <p>For mild acute conditions, you can visit the following Singhealth polyclinics
-in the Northeast:</p>
+in the Northeast region of Singapore:</p>
 <p><a href="https://polyclinic.singhealth.com.sg/our-polyclinics/shp-sengkang" rel="noopener noreferrer nofollow" target="_blank">SHP-Sengkang | SingHealth Polyclinics</a>
 </p>
 <p><a href="https://polyclinic.singhealth.com.sg/our-polyclinics/shp-punggol" rel="noopener noreferrer nofollow" target="_blank">SHP-Punggol | SingHealth Polyclinics</a>
 </p>
 <p></p>
-<p>To make an appointment, call <u>66436969</u> or book via the Health Buddy
+<p>To make an appointment, call <u>6643 6969</u> or book via the Health Buddy
 app using the following QR code:</p>
 <p></p>
 <div class="isomer-image-wrapper">
