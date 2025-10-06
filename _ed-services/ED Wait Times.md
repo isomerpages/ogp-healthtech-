@@ -15,22 +15,17 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Current ED Wait Times</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Last updated</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sengkang General Hospital</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>4 hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24/08/2025 @ 1800H</p>
+<td rowspan="1" colspan="2">
+<p><a href="https://plumber.gov.sg/tiles/4005364f-073d-4e59-9b9c-c237c816e873/28dba0a5-c239-49e2-b1a7-db708c4981e4" rel="noopener nofollow" target="_blank">SKH ED Waiting Times</a>
+</p>
 </td>
 </tr>
 <tr>
