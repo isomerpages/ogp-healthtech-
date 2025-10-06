@@ -24,7 +24,7 @@ description: ""
 <p>Sengkang General Hospital</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://plumber.gov.sg/tiles/4005364f-073d-4e59-9b9c-c237c816e873/28dba0a5-c239-49e2-b1a7-db708c4981e4" rel="noopener nofollow" target="_blank">SKH ED Waiting Times</a>
+<p><a href="https://for.sg/skhedwt" rel="noopener nofollow" target="_blank">SKH ED Waiting Times</a>
 </p>
 </td>
 </tr>
