@@ -10,6 +10,8 @@ in the Northeast region of Singapore:</p>
 </p>
 <p><a href="https://www.nhgp.com.sg/our-polyclinics/all-polyclinics/Pages/polyclinic-hougang.aspx" rel="noopener nofollow" target="_blank">Hougang Polyclinic</a>
 </p>
+<p><a href="https://www.nhgp.com.sg/our-polyclinics/all-polyclinics/Pages/polyclinic-serangoon.aspx" rel="noopener nofollow" target="_blank">Serangoon Polyclinic</a>
+</p>
 <p>To make a same day appointment for acute conditions, call <u>6355 3000</u> or
 book via the NHG Health app, available on Google Play Store or the Apple
 App Store.</p>
