@@ -322,6 +322,32 @@ be directed to their websites.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.unihealthclinic.sg/" rel="noopener nofollow" target="_blank">Unihealth 24 hour Clinic (Punggol)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Yes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Yes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Yes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Yes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Yes</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>^Patient will need to bring own urinary cathether and bag.</p>
