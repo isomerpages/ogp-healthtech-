@@ -33,7 +33,7 @@ description: ""
 <p>Khoo Teck Puat Hospital</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.ktph.com.sg/i-want-to/visit-A-and-E" rel="noopener nofollow" target="_blank">KTPH ED Queue Viewer</a>
+<p><a href="https://www.nhghealth.com.sg/ktph/i-want-to/visit-a-e" rel="noopener nofollow" target="_blank">KTPH ED Queue Viewer</a>
 </p>
 </td>
 </tr>
